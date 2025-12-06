@@ -2,7 +2,9 @@
   "name": "hospital-management",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kumar568.github.io/Hospital-Managemant-",
+
+  "homepage": "https://kumar568.github.io/Hospital-Management",
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
